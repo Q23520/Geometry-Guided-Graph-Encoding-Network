@@ -1,1 +1,1 @@
-# Geometry-Guided-Graph-Encoding-Network
+# Geometry-Guided-Graph-Encoding-Network (G3e-Net)
